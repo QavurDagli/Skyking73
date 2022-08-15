@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/yDm4Ry6XU77Py/giphy.gif" align="right" width="350" height="250">
+<img src="https://user-images.githubusercontent.com/84801169/184735982-e55ad9dd-44a8-45ce-bce2-cb8a6a154627.jpg" align="right" width="350" height="250">
 
 
 ### Hi there, I'm Atilla. 
@@ -11,7 +11,7 @@
 ## Reach out to me
 
 <a href="https://twitter.com/atillaarslan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atillaarslan73" height="30" width="40" /></a>
-<a href="https://medium.com/@atillaarslan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atillaarslan73" height="30" width="40" /></a>
+<a href="https://medium.com/@atillaarslan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="atillaarslan73" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCfGI7en-Os-sN80YPAhiNyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
 
 <br />
