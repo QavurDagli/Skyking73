@@ -12,7 +12,7 @@
 
 <a href="https://twitter.com/atillaarslan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atillaarslan73" height="30" width="40" /></a>
 <a href="https://medium.com/@atillaarslan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atillaarslan73" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/atillaarslan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCfGI7en-Os-sN80YPAhiNyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
 
 <br />
 
