@@ -18,7 +18,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atillaarslan73&label=Profile%20views&color=0e75b6&style=flat" alt="atillaarslan73" /> <a href="https://twitter.com/atillaarslan73" target="blank"><img src="https://img.shields.io/twitter/follow/atillaarslan73?logo=twitter&style=for-the-badge" alt="atillaarslan73" /></a> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=atillaarslan73&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
 - 🔭 I’m currently working on [developing my community](https://discord.gg/ruescommunity)
 
